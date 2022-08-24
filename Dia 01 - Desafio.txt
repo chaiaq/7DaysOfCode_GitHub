@@ -1,0 +1,11 @@
+Este primeiro dia é super importante! Ao final dele, você terá um novo conhecimento que é essencial para os próximos desafios.
+
+Nem todo mundo conhece bem o GitHub, especialmente as pessoas que estão iniciando agora na área de desenvolvimento. Ele é uma plataforma de hospedagem de códigos e arquivos, mas com a funcionalidade de controle de versão. Nele, é possível contribuir em projetos open-source de qualquer lugar do mundo.
+
+Considerando que você já tem uma conta criada no GitHub, o seu desafio de hoje será bem básico: criar um repositório do zero a partir da própria página do GitHub.
+
+Para fazer isso, é muito fácil. Estando na sua página de perfil, você vai clicar na aba "Repositories" (Repositórios) e em "New". Lá dentro, você vai escolher o nome do seu novo repositório, se ele terá um arquivo "Readme", entre outras coisas.
+
+
+EXERCÍCIO OPCIONAL
+Como um desafio opcional, pesquise como alterar a descrição do seu perfil para adicionar as suas habilidades e deixá-lo estilizado. Solte a sua criatividade e deixe essa página a mais legal possível!

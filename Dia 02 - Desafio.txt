@@ -1,0 +1,7 @@
+Hoje é o segundo dia do seu desafio #7DaysOfCode com GitHub, bora praticar?
+
+Talvez você tenha vários projetos engavetados por aí, ou talvez nunca tenha criado nada próprio. Como você já deve ter percebido, a ideia do GitHub é exatamente essa de compartilhar seus repositórios e, quem sabe, ter outras pessoas colaborando em seu desenvolvimento.
+
+A primeira parte do seu desafio hoje será criar no seu repositório os arquivos HTML e CSS que eu compartilhei no template acima, mas isso será feito diretamente a partir da própria página do seu repositório no GitHub, copiando e colando o código manualmente. Assim que cada arquivo for criado, você deverá realizar o commit do mesmo, ao final da página.
+
+A segunda parte do desafio será fazer o upload de uma pasta "images" para o repositório, contendo as 4 imagens compartilhadas no template acima.

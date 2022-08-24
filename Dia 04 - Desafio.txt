@@ -1,0 +1,15 @@
+Hoje, você vai continuar a fazer coisas a partir da IDE. Uma grande vantagem de usar uma IDE como o Visual Studio Code é que fazer alterações no código torna-se uma tarefa muito fácil.
+
+O template que você está utilizando, do jeito que está agora, está muito básico e genérico. O mesmo filme está sendo repetido três vezes, o texto de descrição não tem nada relevante e a imagem também está igual para todos.
+
+A primeira parte do seu desafio de hoje será alterar o arquivo "index.html" a partir do Visual Studio Code para que você tenha três filmes diferentes, cada um com a sua descrição, imagem e nota correspondente.
+
+Quando essas alterações estiverem prontas, você irá salvar o arquivo e, ao fazer isso, notará que, do lado esquerdo da tela, aparecerá um número "1" ao lado da aba "Source Control". Isso quer dizer que há uma alteração no seu código em relação ao código que foi baixado do repositório.
+
+Se você clicar duas vezes no nome do arquivo "index.html" visto acima, o Visual Studio Code abrirá uma nova janela e você poderá ver claramente onde foram feitas todas as alterações no código.
+
+A segunda e mais importante parte do desafio de hoje será realizar o commit dessas alterações que você fez no código. Você fará o commit diretamente a partir da aba "Source Control" do Visual Studio Code e passando uma mensagem explicando sobre o que se tratam as alterações.
+
+Outra coisa que você pode fazer para praticar os seus conhecimentos é usar os comandos do Git diretamente no Terminal do Visual Studio Code.
+
+Para abrir o Terminal, basta ir na aba superior "Terminal" e selecionar "New Terminal".

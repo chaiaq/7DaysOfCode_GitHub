@@ -1,0 +1,7 @@
+Bora lá pra mais um desafio?
+
+Às vezes acidentes ocorrem e você sobe na master algo errado, ou então antes da hora. Isso é normal, e você não precisa se preocupar, mas tem que saber o que fazer nessas situações.
+
+Primeiramente, você irá abrir o seu arquivo "index.html" no Visual Studio Code. Altere algo que vá quebrar o seu código (como o fechamento de uma ‘div’ ou de um ‘h2’) e faça o commit e o Push dessas alterações para a sua master. Pode tentar abrir o "index.html" para ver o erro.
+
+O seu desafio de hoje será reverter esse commit para remover o erro do seu código.

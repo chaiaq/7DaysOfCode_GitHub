@@ -1,0 +1,11 @@
+Esse é o seu último dia de #7DaysOfCode com GitHub!
+
+Parabéns por se esforçar e chegar até o último desafio! Espero que você tenha conseguido aprender bastante coisa nessa última semana.
+
+Você avançou muito no seu projeto e, para fechar com chave de ouro, uma coisa MUITO legal que você pode fazer é colocar o seu projeto em produção usando o próprio GitHub. É isso mesmo que você leu!
+
+Dessa forma, você irá tornar a sua aplicação disponível de forma pública na internet.
+
+Para fazer isso, você precisará hospedar os arquivos do seu aplicativo em alguma página de hospedagem na nuvem. Um dos jeitos mais fáceis é usar o seu repositório no GitHub e publicá-lo no Github Pages.
+
+Bora lá?

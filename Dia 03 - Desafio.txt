@@ -1,0 +1,7 @@
+Hoje, você vai começar a usar uma IDE para continuar brincando com o seu repositório. Recomendo o uso do Visual Studio Code, que você pode baixar aqui.
+
+Para poder conectar a sua conta GitHub ao Visual Studio Code, você terá que fazer o download e instalação do Git também.
+
+Tendo tudo isso instalado, o seu desafio de hoje será clonar o seu repositório criado no GitHub para editá-lo localmente, pela sua IDE.
+
+

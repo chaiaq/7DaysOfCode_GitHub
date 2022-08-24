@@ -1,0 +1,15 @@
+Você já está chegando na reta final do #7DaysOfCode!
+
+Em uma equipe de trabalho, é muito comum (e esperado) mais de uma pessoa estar trabalhando no mesmo código ao mesmo tempo. Muitas vezes isso não influencia em muita coisa, mas em algumas situações isso pode resultar em conflitos no código, ou seja, a mesma parte do código foi alterada por duas (ou mais) pessoas diferentes e, na hora de fazer um Pull, o Git não sabe como juntá-las.
+
+Hoje, você vai simular um conflito desses.
+
+Para isso, acesse a página do seu repositório no GitHub e abra o arquivo "index.html". Clique no lápis para editá-lo e altere o texto de descrição do terceiro filme da lista. Ao terminar, vá até o final da página, insira uma mensagem e clique em "Commit changes", deixando selecionada a opção "Commit directly to the main branch".
+
+Agora, abra o seu arquivo "index.html" dentro do Visual Studio Code, vá até o mesmo ponto do código e altere o texto de descrição do terceiro filme da lista por um texto diferente do original e também diferente do texto alterado diretamente no GitHub. Salve o arquivo, vá até a aba "Source Control", insira uma mensagem e faça o commit dessas alterações (seja clicando no símbolo de "correto" ou usando o atalho "CTRL+Enter" ou "Command+Enter".
+
+Agora, ainda na aba "Source Control", clique nas reticências (...) e selecione a opção "Pull". Você verá que, ao fazer isso, a IDE irá te informar que houve um conflito de "merge" (mescla).
+
+O seu desafio de hoje será resolver esse conflito e fazer um commit do resultado do seu "merge". Dê preferência para realizar esse desafio usando os comandos diretamente no Terminal do Visual Studio Code.
+
+Mãos à obra!
